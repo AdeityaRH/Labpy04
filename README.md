@@ -28,3 +28,7 @@ tugas2+uts2+uas2/3
 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 
 10.Program selesai.
+
+Berikut ini Flowchart programnya:
+
+Ini hasil Output program:
