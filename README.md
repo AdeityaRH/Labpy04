@@ -31,9 +31,8 @@ tugas2+uts2+uas2/3
 
 Berikut ini Flowchart programnya:
 
-![Screenshot_20191122-211007~2](https://user-images.githubusercontent.com/56975779/69432595-9a9f9480-0d6c-11ea-8413-c4d9420682d2.png)
+![Screenshot_20191130-224123~2](https://user-images.githubusercontent.com/56975779/69902639-a91c2a80-13c2-11ea-84db-dd5019fad51a.png)
 
 Ini hasil Output program:
 
-![Screenshot_20191122-175850~2](https://user-images.githubusercontent.com/56975779/69421595-07f2fb80-0d54-11ea-87df-6f2c71029d87.png)
-
+![Screenshot_20191130-183823~2](https://user-images.githubusercontent.com/56975779/69902664-e4b6f480-13c2-11ea-9aa5-95c2e7baf87c.png)
